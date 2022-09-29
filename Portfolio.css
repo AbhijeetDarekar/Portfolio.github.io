@@ -1,0 +1,146 @@
+.navbar {
+    background-color:#66068c;
+   height: 10vh !important;
+}
+
+
+
+
+
+
+.nav-link {
+    padding: 0.5rem ;
+    color: rgb(255, 255, 255) !important;
+    font-weight: bold;
+
+
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid white;
+    border-radius: 20px;
+   
+
+}
+
+.profile-inner {
+    background-color: #99A3A4;
+    padding-bottom: 80px;
+    margin-top: 57px; 
+    
+}
+
+.profile-img {
+    padding: 40px;
+
+    
+    margin: auto;
+}
+
+
+.profile-img img {
+
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 50px;
+
+
+}
+
+.content {
+    padding: 60px 0px;
+
+    margin-top: 90px;
+}
+
+.content h1 {
+    font-size: 50px;
+
+}
+
+.content .para {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    color: #424949;
+}
+
+.fa-solid {
+    color: rgb(247, 0, 0);
+}
+
+
+
+
+.about-img img {
+
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+
+
+}
+
+.caro {
+    background-color: #99a3a4;
+}
+
+.cart {
+    margin-bottom: 50px;
+    background-color: #99a3a4;
+}
+
+.abt {
+    background-color: #99a3a4;
+}
+
+.contact-img img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+
+
+}
+
+.f {
+    padding: 80px;
+}
+
+.con {
+    margin-top: 20px;
+    background-color: #99a3a4;
+
+}
+
+.footer {
+    height: 10vh;
+}
+
+.sec1 {font-weight: bold;
+    color: whitesmoke;
+}
+.sec3{
+    color: rgb(156, 156, 156);
+    font-weight: bold;
+   
+}
+
+.fa-brands{color: #59f;}
+
+a{
+    margin-left:20px ;
+}
+
+.fa-user{
+    color: white;
+}
+
+.h1{
+    text-align: center;
+    margin:15px 25px ;
+}
+
+.progress{
+    margin-top:5px ;
+}
